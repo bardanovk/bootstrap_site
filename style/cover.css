@@ -59,6 +59,10 @@ body {
     transition: 2s;
 }
 
+.bg-red {
+    background-color: rgb(128, 20, 20);
+}
+
 img {
     padding: 20px;
     width: 2500px
